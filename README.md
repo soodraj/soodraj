@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Cloud and DevOps related topics
 - 🤔 I’m looking for help with understanding Kubernetes 
 - 💬 Ask me about AWS, GCP & Azure
-- 📫 How to reach me: Twitter - @spysood
+- 📫 How to reach me: Twitter - [@spysood](https://twitter.com/spysood)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to cook
--->
+- ⚡ Fun fact: I love to cook! 
