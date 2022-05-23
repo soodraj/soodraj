@@ -6,4 +6,4 @@
 - 💬 Ask me about AWS, GCP & Azure Cloud
 - 📫 How to reach me: Twitter - [@spysood](https://twitter.com/spysood)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love Photography, driving cooking! 
+- ⚡ Fun fact: I love Photography, driving & cooking! 
